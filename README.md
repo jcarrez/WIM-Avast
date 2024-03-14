@@ -34,6 +34,11 @@ Alternatively, you can copy the RESCUE folder from an [Avast RESCUE Disk](https:
 * Start `.\Files\RESCUE\ASWPEANTIVIRUS.exe` with Update argument
 * Remove the registry key created
 
+To run the `AvastUpdate.ps1` script :
+1. [Run PowerShell as Administrator]
+2. [Navigate to the directory containing the repository files.]
+3. [Execute the `AvastUpdate.ps1`]
+
 ### Create WIM
 <a name="en-WIM"></a>
 ***
@@ -46,11 +51,21 @@ It works like :
 * Editing Registry of the PE mounted image
 * Saving change
 
+To run the `WIM-Avast.ps1` script :
+1. [Run PowerShell as Administrator]
+2. [Navigate to the directory containing the repository files.]
+3. [Execute the `WIM-Avast.ps1`]
+
 ### 2 in 1
 <a name="en-2in1"></a>
 ***
 `2in1.ps1`  
 Run `AvastUpdate.ps1` first and then `WIM-Avast.ps1`.
+
+To run the `2in1.ps1` script :
+1. [Run PowerShell as Administrator]
+2. [Navigate to the directory containing the repository files.]
+3. [Execute the `2in1.ps1`]
 
 ### Additional Notes
 <a name="en-additional-notes"></a>
@@ -84,6 +99,11 @@ Sinon vous pouvez copier le dossier RESCUE à partir d'un [Avast RESCUE Disk](ht
 * Exécute `.\Files\RESCUE\ASWPEANTIVIRUS.exe` avec les arguments de mises à jour.
 * Supprime les clés de registre ajoutées.
 
+Pour exécuter `AvastUpdate.ps1` :
+1. [Lancer PowerShell en tant qu'Administrateur]
+2. [Naviguez jusqu'au dossier contenant les fichiers du dépôt.]
+3. [Exécutez le script `AvastUpdate.ps1`]
+
 ### Création WIM
 <a name="fr-WIM"></a>
 ***
@@ -96,11 +116,21 @@ Cela fonctionne tel que :
 * Modification du registre de l'image montée
 * Sauvegarder les changements
 
+Pour exécuter `WIM-Avast.ps1` :
+1. [Lancer PowerShell en tant qu'Administrateur]
+2. [Naviguez jusqu'au dossier contenant les fichiers du dépôt.]
+3. [Exécutez le script `WIM-Avast.ps1`]
+
 ### 2 en 1
 <a name="fr-2in1"></a>
 ***
 `2in1.ps1`  
 Exécute `AvastUpdate.ps1` en premier et ensuite `WIM-Avast.ps1`
+
+Pour exécuter `2in1.ps1` :
+1. [Lancer PowerShell en tant qu'Administrateur]
+2. [Naviguez jusqu'au dossier contenant les fichiers du dépôt.]
+3. [Exécutez le script `2in1.ps1`]
 
 ### Notes additionnelles
 <a name="fr-additional-notes"></a>
