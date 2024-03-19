@@ -91,7 +91,7 @@ WIM-Avast facilite la création d'image Avast avec la dernière mise à jour de 
 
 ### Utilisation
 ***
-Les outils fournis dans ce dépôt sont conçus pour être intuitives et simples. Suivez les étapes ci-dessous pour l'utiliser.  
+Les outils fournis dans ce dépôt sont conçus pour être intuitifs et simples. Suivez les étapes ci-dessous pour l'utiliser.  
   
 Vous devez utiliser [7-zip](https://www.7-zip.org/download.html) pour extraire le dossier RESCUE depuis `RESCUE.7z.001` qui se trouve dans le dossier Files.
 Sinon vous pouvez copier le dossier RESCUE à partir d'un [Avast RESCUE Disk](https://support.avast.com/fr-fr/article/antivirus-rescue-disk-scan/#pc). Le dossier RESCUE se trouve à la racine du disque.
