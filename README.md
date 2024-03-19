@@ -39,6 +39,12 @@ To run the `AvastUpdate.ps1` script :
 2. [Navigate to the directory containing the repository files.]
 3. [Execute the `AvastUpdate.ps1`]
 
+```powershell
+.\AvastUpdate.ps1
+ASW DEFS : 24031400 - Before Update
+ASW DEFS : 24031900 - After Update
+```
+
 ### Create WIM
 <a name="en-WIM"></a>
 ***
@@ -103,6 +109,12 @@ Pour exécuter `AvastUpdate.ps1` :
 1. [Lancer PowerShell en tant qu'Administrateur]
 2. [Naviguez jusqu'au dossier contenant les fichiers du dépôt.]
 3. [Exécutez le script `AvastUpdate.ps1`]
+
+```powershell
+.\AvastUpdate.ps1
+ASW DEFS : 24031400 - Before Update
+ASW DEFS : 24031900 - After Update
+```
 
 ### Création WIM
 <a name="fr-WIM"></a>
